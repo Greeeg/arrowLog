@@ -1,0 +1,9 @@
+arrowLog firmware to run on Revision 2 board.
+
+Parts:
+-MSP430F2013 MCU
+-MMA7455 Accelorometer
+-25DF041A 4Mbit dataFlash
+-2 buttons
+-2 LEDs
+
